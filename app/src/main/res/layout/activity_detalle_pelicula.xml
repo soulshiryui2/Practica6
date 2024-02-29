@@ -28,6 +28,7 @@
         android:paddingLeft="25dp"
         android:layout_gravity="center"
         android:textSize="20sp"
+        android:textColor="@color/yellow"
         android:text="Halo" />
 
     <TextView
