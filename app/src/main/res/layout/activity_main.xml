@@ -37,7 +37,7 @@
             android:layout_marginTop="25dp"
             android:layout_width="237dp"
             android:layout_height="39dp"
-            android:text="GET ME IN!"
+            android:text="@string/getMain"
             android:textAlignment="center"
             android:textColor="@color/black"
             android:layout_gravity="center"
